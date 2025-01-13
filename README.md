@@ -1,8 +1,10 @@
+<base target="_blank">
+
 ## Hi there 👋, I'm Mehdi REBIAI
 ### Developer since 2004
 
 - 🔭 I’m currently working on Data Engineering
-- ℹ️ More information about me & my talks at <a href="https://mrebiai.github.io/" target="_blank">mrebiai.github.io</a>
+- ℹ️ More information about me & my talks at <a href="https://mrebiai.github.io/" target="_blank">https://mrebiai.github.io</a>
 <!-- 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
