@@ -2,7 +2,7 @@
 ### Developer since 2004
 
 - 🔭 I’m currently working on Data Engineering
-- ℹ️ More information about me & my talks at [http://mrebiai.github.io/](http://mrebiai.github.io/)
+- ℹ️ More information about me & my talks at <a href="https://mrebiai.github.io/" target="_blank">https://mrebiai.github.io</a>
 <!-- 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
