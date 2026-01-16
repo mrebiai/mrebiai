@@ -13,6 +13,6 @@
 - ⚡ Fun fact: ...
 -->
 
-[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrebiai&theme=transparent)]() [![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrebiai&theme=transparent)]()
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrebiai&theme=transparent"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrebiai&theme=transparent"/>
 
 
