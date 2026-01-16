@@ -13,4 +13,6 @@
 - ⚡ Fun fact: ...
 -->
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mrebiai?cardType=level&theme=dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrebiai&theme=github_dark)]() [![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrebiai&theme=github_dark)]()
+
+
