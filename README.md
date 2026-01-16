@@ -13,6 +13,6 @@
 - ⚡ Fun fact: ...
 -->
 
-[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrebiai&theme=github_dark)]() [![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrebiai&theme=github_dark)]()
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrebiai&theme=transparent)]() [![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrebiai&theme=transparent)]()
 
 
